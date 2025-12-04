@@ -58,7 +58,7 @@ Total Books: 2
 Total Members: 1
 Total Loans: 0
 Active Loans: 0
-Book instances (static): 2
+Book instances (static): 4
 
 Loan created.
 Available ISBN-001? false
@@ -80,7 +80,7 @@ Total Books: 3
 Total Members: 2
 Total Loans: 3
 Active Loans: 2
-Book instances (static): 3
+Book instances (static): 6
 ```
 
 
